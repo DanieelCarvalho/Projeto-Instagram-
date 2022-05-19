@@ -122,8 +122,8 @@ main {
     align-items: center;
     background-image: url(img/stories_background\ 1.png);
     background-repeat: no-repeat;
-    background-position: center 19.2px;
-    background-size: 63px;
+    background-position: center 19.5px;
+    background-size: 62px;
     height: 120px;
     width: 100%;
 
@@ -375,7 +375,7 @@ main {
 .curtir_comentar_segundo {
     display: flex;
     width: 41vw;
-    padding-left: px;
+    padding-left: 8px;
 }
 
 .curtir_comentar_segundo p {
@@ -492,7 +492,7 @@ main {
 
     .container_first_stories {
         width: 587px;
-        height: 18vh;
+        height: 20vh;
         display: flex;
         align-items: center;
         overflow: hidden;
@@ -675,6 +675,6 @@ main {
 
     main {
 
-        height: 320vh;
+        height: 310vh;
     }
 }
